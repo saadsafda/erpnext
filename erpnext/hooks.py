@@ -483,8 +483,8 @@ email_brand_image = "assets/erpnext/images/favicon.png"
 default_mail_footer = """
 	<span>
 		Sent via
-		<a class="text-muted" href="https://frappe.io/erpnext?source=via_email_footer" target="_blank">
-			ERPNext
+		<a class="text-muted" href="https://danerp.tech?source=via_email_footer" target="_blank">
+			DanERP
 		</a>
 	</span>
 """
